@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, PHP, SQL, HTML e CSS.</strong>
+  🦄 Linguagens: <strong>JAVA, PHP, SQL, HTML e CSS.</strong>
 </p>
 
 <p align="left">
@@ -24,7 +24,6 @@
   <a href="//www.instagram.com/yago_kirchmann/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link"/></a>
 
-  <a href="//www.facebook.com/yago.alves007/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link/"></a>
+  <a href="mailto:yago.like@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link" /></a>
 </p> 
-   
