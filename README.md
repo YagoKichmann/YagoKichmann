@@ -2,19 +2,19 @@
 
 <p align="left"> 
   Sou estudante de Analise e desenvolvimento de sistemas no IFSC - Tubarão.<br>
-  Procuro realocação na Área .
+  Foco em Backend e atualmente desenvolvendo aplicativo mobile.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JAVA, PHP, SQL, HTML e CSS.</strong>
+  🦄 Linguagens: <strong>JAVA, FLUTTER e SQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>NetBeans, PostgreSQL e DBeaver</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Estou aberto a novas oportunidades.
 </p>
 
 <p align="left">
