@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Sou estudante de Analise e desenvolvimento de sistemas no IFSC - Tubarão.<br>
+  Suporte Sênior em Convcard | Grupo Trier.<br>
   Foco em Backend e atualmente desenvolvendo aplicativo mobile.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JAVA, FLUTTER e SQL</strong>
+  <strong>Competências:<strong> PostgreSQL 
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>NetBeans, PostgreSQL e DBeaver</strong>
+  <strong>Ferramentas: <strong>DBeaver</strong>
 </p>
 
 <p align="left">
-  💌 Estou aberto a novas oportunidades.
+  Aberto a novas oportunidades.
 </p>
 
 <p align="left">
